@@ -1,2 +1,2 @@
 # Vanillin-Data-Analysis
-This repository contains the data collected from the theoretical study and the python scripts used to process them and create the figures. (Michael Nicolaou, University of Glasgow, School of Chemistry, LVN group, 2023, First year APR).
+This repository contains the scripts used to analyse the data and produce the figures found in "IR of Vanillin: A classic study with a twist".
